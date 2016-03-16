@@ -2,5 +2,3 @@ GitHub for Windows
 Seja bem vindo!
 Primeiro laboratorio
 Ola
-
-yay
